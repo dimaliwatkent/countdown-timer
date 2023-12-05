@@ -54,12 +54,6 @@ const Countdown = () => {
       <div className="absolute bottom-0">
         <img src={hills} alt="hills" />
       </div>
-      <div className="absolute flex right-0 top-0">
-        <div className="h-10 w-10 bg-base"></div>
-        <div className="h-10 w-10 bg-blue1"></div>
-        <div className="h-10 w-10 bg-blue2"></div>
-        <div className="h-10 w-10 bg-blue3"></div>
-      </div>
     </div>
   );
 };
