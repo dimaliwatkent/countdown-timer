@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- solution url: [GitHub](https://github.com/dimaliwatkent/countdown-timer.git)
-- live site url: [Countdown Timer](https://countdown-timer-197e4.web.app)
+- Solution URL: [GitHub](https://github.com/dimaliwatkent/countdown-timer.git)
+- Live Site URL: [Countdown Timer](https://countdown-timer-197e4.web.app)
 
 ## My Process
 
@@ -54,6 +54,6 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@dimaliwakent](https://www.frontendmentor.io/profile/dimaliwakent)
+- Frontend Mentor - [@dimaliwatkent](https://www.frontendmentor.io/profile/dimaliwatkent)
 
 ## Acknowledgments
